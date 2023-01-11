@@ -18,9 +18,9 @@ I am a **frontend** and **backend** developer.
 
 
 
-### My stack: 
+## My stack: 
 
-### Frontend expierence:
+<h2><center> Frontend expierence:</center> </h2>
 
 
 
