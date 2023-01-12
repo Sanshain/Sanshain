@@ -51,7 +51,7 @@ I am a **frontend** and **backend** developer
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Preact](https://img.shields.io/badge/preact-%8b8bdb.svg?style=for-the-badge&logo=preact&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![linaria](https://img.shields.io/badge/linaria-linaria.svg?style=for-the-badge&logo=linaria&logoColor=white)
+![linaria](https://img.shields.io/badge/linaria-E10098.svg?style=for-the-badge&logo=linaria&logoColor=white)
 ![postcss](https://img.shields.io/badge/postcss-F5789D.svg?style=for-the-badge&logo=postcss&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
