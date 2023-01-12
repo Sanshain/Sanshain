@@ -23,6 +23,12 @@ I am a **frontend** and **backend** developer
 
 ## My stack: 
 
+- [Frontend expierence](#-frontend-expierence-)
+- [Backend expierence](#backend-expierence)
+- [Mobile development expierence](#mobile-development-expierence)
+- [Common expierence](#common-expierence)
+- *[How to reach me](#contacts)*
+
 <h2><center> Frontend expierence:</center> </h2>
 
 
@@ -36,6 +42,8 @@ I am a **frontend** and **backend** developer
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | over many years of development, he has mastered a good level of understanding of the javascript core, the best practices of OOP and functional programming, asynchronous programming, the use of workers, and so on |
 |![DOM](https://img.shields.io/badge/Document-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)| knowledge of the subtle nuances of using DOM. Experience with web components. |
 |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)| knowledge of node js was most often useful when setting up the dev server. There is also a little experience in deploying simple applications on express, fastify and nest | 
+|![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) | node package manager |
+|![pnpm](https://img.shields.io/badge/pnpm-%232C8EBB.svg?style=for-the-badge&logo=pnpm&logoColor=white&color=f5ab24&labelColor=gray)|I prefer to use in my pet projects (because of it is banned) |
 |![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)| when I started my career as a developer, gulp was a popular tool. I wrote several plugins for it, which I used in production (some are still in use today and some are published on npm) |
 |![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)| I use typescript in most of my projects |
 |![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)| I use rollup in most of my projects where performance allows it. I have experience writing plugins for rollup (limited purpose, not published on npm).  I am able to set up any config of any complexity himself from scratch |
@@ -55,9 +63,10 @@ In the process of writing the whole list, I realized that the technologies I tou
 ![lit](https://img.shields.io/badge/lit-113057?style=for-the-badge&logo=lit&logoColor=white)
 ![PurgeCSS](https://img.shields.io/badge/nanostores-red?style=for-the-badge&logo=nanostores&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-orange?style=for-the-badge&logo=MobX&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 
-### Backend: 
+### Backend expierence: 
 
 | Tech          | More detailed |
 | ------------- |:--------------|
@@ -86,7 +95,23 @@ Technologies that also, in my opinion, deserve attention:
 | ------------- |:--------------|
 |![aerospike](https://img.shields.io/badge/aerospike-%230db7ed.svg?style=for-the-badge&logo=aerospike&logoColor=white&labelColor=086dd7)| use as an alternative nosql moon-value DBMS, more productive than redis |
 
-📫 How to reach me:
+## Mobile development expierence 
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-%23663399.svg?style=for-the-badge&logo=GetX&logoColor=white)
+
+
+## Common expierence
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Contacts
+
+📫 How to reach me: 
+- [telegram](https://t.me/Sanshain_Swa)
+
+Please write which company you are from and for what purpose you are being added
 
 [Версия на русском](#)
 
