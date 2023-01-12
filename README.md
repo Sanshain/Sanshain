@@ -24,15 +24,6 @@ I am a **frontend** and **backend** developer
 
 ## My stack: 
 
-- [Frontend expierence](#-frontend-expierence-)
-- [Backend expierence](#backend-expierence)
-- [Mobile development expierence](#mobile-development-expierence)
-- [Common expierence](#common-expierence)
-- [Published packages](#packages-published-on-pip)
-- *[How to reach me](#contacts)*
-
-<h2><center> Frontend expierence:</center> </h2>
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
@@ -53,7 +44,14 @@ I am a **frontend** and **backend** developer
 ![postcss](https://img.shields.io/badge/postcss-F5789D.svg?style=for-the-badge&logo=postcss&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+- [Frontend expierence](#-frontend-expierence-)
+- [Backend expierence](#backend-expierence)
+- [Mobile development expierence](#mobile-development-expierence)
+- [Common expierence](#common-expierence)
+- [Published packages](#packages-published-on-pip)
+- *[How to reach me](#contacts)*
 
+<h2><center> Frontend expierence:</center> </h2>
 
 | Tech          | More detailed |
 | ------------- |:--------------|
