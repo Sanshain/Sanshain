@@ -1,10 +1,14 @@
 ## Sanshain Le 
 
-Welcome to visit! [(version in russian)](#1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+visit!)](https://git.io/typing-svg)
 
 I am a **frontend** and **backend** developer
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanshain)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanshain&mode=weekly)](https://git.io/streak-stats)
 
+
+[(𝚟𝚎𝚛𝚜𝚒𝚘𝚗 𝚒𝚗 𝚛𝚞𝚜𝚜𝚒𝚊𝚗)](#1)
 
 <details>
  <summary>Few facts about me</summary>
@@ -19,14 +23,15 @@ I am a **frontend** and **backend** developer
 </details>
 
 
-
-
 ## My stack: 
 
 - [Frontend expierence](#-frontend-expierence-)
 - [Backend expierence](#backend-expierence)
 - [Mobile development expierence](#mobile-development-expierence)
 - [Common expierence](#common-expierence)
+- [Advanced skills](#advanced-skills)
+- [Packages published on pip](#packages-published-on-pip)
+- [Packages published on npm](#packages-published-on-npm)
 - *[How to reach me](#contacts)*
 
 <h2><center> Frontend expierence:</center> </h2>
@@ -36,8 +41,8 @@ I am a **frontend** and **backend** developer
 | Tech          | More detailed |
 | ------------- |:--------------|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)       | pure html or haml preproc |
-| ![HTML5](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)         | pure css including css animations, css variables, crossbrowser support and the newest features. The possibility of supporting older browsers if needed |
-| ![HTML5](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) | greatly helps in development for any simple solutions|
+| ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)         | pure css including css animations, css variables, crossbrowser support and the newest features. The possibility of supporting older browsers if needed |
+| ![less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) | greatly helps in development for any simple solutions|
 | ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) | used in a commercial project as a preprocessor for svelte components |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | over many years of development, he has mastered a good level of understanding of the javascript core, the best practices of OOP and functional programming, asynchronous programming, the use of workers, and so on |
 |![DOM](https://img.shields.io/badge/Document-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)| knowledge of the subtle nuances of using DOM. Experience with web components. |
@@ -66,7 +71,10 @@ In the process of writing the whole list, I realized that the technologies I tou
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 
-### Backend expierence: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+## Backend expierence: 
 
 | Tech          | More detailed |
 | ------------- |:--------------|
@@ -100,16 +108,53 @@ Technologies that also, in my opinion, deserve attention:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-%23663399.svg?style=for-the-badge&logo=GetX&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
 
 ## Common expierence
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Advanced skills: 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-%23239120.svg?style=for-the-badge&logo=WinForms&logoColor=white)
+
+<br>
+
+
+
+### Packages published on pip
+
+You may be interested in some of my packages published on pipy
+
+- [django-ui-widgets](https://pypi.org/project/django-ui-widgets/) 
+
+### Packages published on npm 
+
+You may be interested in some of my packages published on npm
+
+- [gulp-packager](https://www.npmjs.com/package/gulp-packager) 
+- [tcp-bundler](https://www.npmjs.com/package/tcp-bundler) 
+- [graphql-types-generator](https://www.npmjs.com/package/graphql-types-generator)
+- [gql-queries-generator](https://www.npmjs.com/package/gql-queries-generator) 
+- [xi-store](https://www.npmjs.com/package/xi-store) 
+- [svelte-mask](https://www.npmjs.com/package/svelte-mask)
+- [svelte-color-calendar](https://www.npmjs.com/package/svelte-color-calendar) 
+- [corrected-color-calendar](https://www.npmjs.com/package/corrected-color-calendar) 
+
+
+
+
+
 ## Contacts
 
 📫 How to reach me: 
-- [telegram](https://t.me/Sanshain_Swa)
+
+<a href="https://t.me/Sanshain_Swa" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+#### PS
 
 Please write which company you are from and for what purpose you are being added
 
