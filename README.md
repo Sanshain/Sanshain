@@ -1,6 +1,6 @@
 ## Sanshain Le 
 
-Welcome to visit!
+Welcome to visit! ([версия на русском](#))
 
 I am a **frontend** and **backend** developer
 
@@ -113,7 +113,7 @@ Technologies that also, in my opinion, deserve attention:
 
 Please write which company you are from and for what purpose you are being added
 
-[Версия на русском](#)
+
 
 
 
