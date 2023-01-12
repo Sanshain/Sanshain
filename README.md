@@ -68,13 +68,23 @@ In the process of writing the whole list, I realized that the technologies I tou
 |![DjangoChannels](https://img.shields.io/badge/DJANGO-channels-ff1709?style=for-the-badge&logo=django&logoColor=white&color=2980b9&labelColor=0C4B33)| used to communication via websockets |
 |![DjangoRQ](https://img.shields.io/badge/DJANGO-RQ-ff1709?style=for-the-badge&logo=django&logoColor=white&color=f11017&labelColor=0C4B33)| as a queue of tasks like Celery |
 |![tortoiseORM](https://img.shields.io/badge/tortoise-ORM-ff1709?style=for-the-badge&logo=tortoise-ORM&logoColor=white&color=lightgray&labelColor=4051b5)| as asynchronous orm |
-|![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)| as messages broker and cache |
+|![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)| as messages broker and cache, raised redis-cluster in a docker-compose |
 |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| as DBMS for django app |
 |![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)| also as DBMS for django app |
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)| profiency to exploit servers on linux |
-|![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)| used as a load balancer between python application instances |
+|![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&color=399b52)| used as a load balancer between python application instances |
+|![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)| using as http server and load balancer |
+|![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)| use as an http server (in most cases) and load balancer |
+|![haproxy](https://img.shields.io/badge/haproxy-%23D42029.svg?style=for-the-badge&logo=haproxy&logoColor=white)| as load balancer (as an experiment) |
+|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)| using docker containers for deployment |
+|![Docker](https://img.shields.io/badge/docker-compose-%230db7ed.svg?style=for-the-badge&logo=docker-compose&logoColor=white)| using docker containers for deployment |
+|![Docker Swarm](https://img.shields.io/badge/docker-swarm-%230db7ed.svg?style=for-the-badge&logo=docker-swarm&logoColor=white&labelColor=086dd7)| use for clustering |
 
+Technologies that also, in my opinion, deserve attention:
 
+| Tech          | More detailed |
+| ------------- |:--------------|
+|![aerospike](https://img.shields.io/badge/aerospike-%230db7ed.svg?style=for-the-badge&logo=aerospike&logoColor=white&labelColor=086dd7)| use as an alternative nosql moon-value DBMS, more productive than redis |
 
 📫 How to reach me:
 
