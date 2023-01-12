@@ -1,13 +1,16 @@
 ## Sanshain Le 
 
 Welcome to visit!
-I am a **frontend** and **backend** developer. 
+
+I am a **frontend** and **backend** developer
+
 
 
 <details>
  <summary>Few facts about me</summary>
  
- 
+  - I have been developing for more than 5 years, as you can judge from the history of repositories on my github, as well as from links to some services created by me that have been working for several years
+
   - I consider initiative, responsibility, scrupulousness and thoroughness to be my distinctive qualities. I am inspired by creative approach and solving difficult tasks that no one has done before me
   
   - I have a higher technical education, which I consider absolutely useless, because the most important things we learn in life in practice
@@ -55,6 +58,22 @@ In the process of writing the whole list, I realized that the technologies I tou
 
 
 ### Backend: 
+
+| Tech          | More detailed |
+| ------------- |:--------------|
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2b5b84) | python core (including functools, itertools, asyncio etc), pip, pipenv, have experience writing native extensions (using dlang) |
+|![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)| is my main direction in the backend. Most of the services are rendered on it. Experience about four years |
+|![Django-graphene](https://img.shields.io/badge/DJANGO-graphene-ff1709?style=for-the-badge&logo=django&logoColor=white&color=2b5b84&labelColor=orange)| alternative REST, a more advanced way of communication with the front. Experience working with DRF in few projects |
+|![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=A30000&labelColor=0C4B33)| experience working with DRF in few projects |
+|![DjangoChannels](https://img.shields.io/badge/DJANGO-channels-ff1709?style=for-the-badge&logo=django&logoColor=white&color=2980b9&labelColor=0C4B33)| used to communication via websockets |
+|![DjangoRQ](https://img.shields.io/badge/DJANGO-RQ-ff1709?style=for-the-badge&logo=django&logoColor=white&color=f11017&labelColor=0C4B33)| as a queue of tasks like Celery |
+|![tortoiseORM](https://img.shields.io/badge/tortoise-ORM-ff1709?style=for-the-badge&logo=tortoise-ORM&logoColor=white&color=lightgray&labelColor=4051b5)| as asynchronous orm |
+|![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)| as messages broker and cache |
+|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)| as DBMS for django app |
+|![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)| also as DBMS for django app |
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)| profiency to exploit servers on linux |
+|![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)| used as a load balancer between python application instances |
+
 
 
 📫 How to reach me:
