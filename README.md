@@ -24,6 +24,17 @@ I am a **frontend** and **backend** developer
 
 ## My stack: 
 
+
+- [Frontend expierence](#-frontend-expierence-)
+- [Backend expierence](#backend-expierence)
+- [Mobile development expierence](#mobile-development-expierence)
+- [Common expierence](#common-expierence)
+- [Published packages](#packages-published-on-pip)
+- *[How to reach me](#contacts)*
+
+<h2><center> Frontend expierence:</center> </h2>
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
@@ -43,34 +54,6 @@ I am a **frontend** and **backend** developer
 ![linaria](https://img.shields.io/badge/linaria-linaria.svg?style=for-the-badge&logo=linaria&logoColor=white)
 ![postcss](https://img.shields.io/badge/postcss-F5789D.svg?style=for-the-badge&logo=postcss&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2b5b84)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)
-![Django-graphene](https://img.shields.io/badge/DJANGO-graphene-ff1709?style=for-the-badge&logo=django&logoColor=white&color=2b5b84&labelColor=orange)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=A30000&labelColor=0C4B33)
-![DjangoRQ](https://img.shields.io/badge/DJANGO-RQ-ff1709?style=for-the-badge&logo=django&logoColor=white&color=f11017&labelColor=0C4B33)
-![tortoiseORM](https://img.shields.io/badge/tortoise-ORM-ff1709?style=for-the-badge&logo=tortoise-ORM&logoColor=white&color=lightgray&labelColor=4051b5)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&color=399b52)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![haproxy](https://img.shields.io/badge/haproxy-%23D42029.svg?style=for-the-badge&logo=haproxy&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker-compose](https://img.shields.io/badge/docker-compose-%230db7ed.svg?style=for-the-badge&logo=docker-compose&logoColor=white)
-
-
-- [Frontend expierence](#-frontend-expierence-)
-- [Backend expierence](#backend-expierence)
-- [Mobile development expierence](#mobile-development-expierence)
-- [Common expierence](#common-expierence)
-- [Published packages](#packages-published-on-pip)
-- *[How to reach me](#contacts)*
-
-<h2><center> Frontend expierence:</center> </h2>
 
 | Tech          | More detailed |
 | ------------- |:--------------|
@@ -109,6 +92,23 @@ In the process of writing the whole list, I realized that the technologies I tou
 
 
 ## Backend expierence: 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2b5b84)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=0C4B33)
+![Django-graphene](https://img.shields.io/badge/DJANGO-graphene-ff1709?style=for-the-badge&logo=django&logoColor=white&color=2b5b84&labelColor=orange)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=A30000&labelColor=0C4B33)
+![DjangoRQ](https://img.shields.io/badge/DJANGO-RQ-ff1709?style=for-the-badge&logo=django&logoColor=white&color=f11017&labelColor=0C4B33)
+![tortoiseORM](https://img.shields.io/badge/tortoise-ORM-ff1709?style=for-the-badge&logo=tortoise-ORM&logoColor=white&color=lightgray&labelColor=4051b5)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&color=399b52)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![haproxy](https://img.shields.io/badge/haproxy-%23D42029.svg?style=for-the-badge&logo=haproxy&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker-compose](https://img.shields.io/badge/docker-compose-%230db7ed.svg?style=for-the-badge&logo=docker-compose&logoColor=white)
 
 
 | Tech          | More detailed |
