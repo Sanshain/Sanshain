@@ -4,7 +4,6 @@
 
 I am a **frontend** and **backend** developer
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanshain)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanshain&mode=weekly)](https://git.io/streak-stats)
 
 
