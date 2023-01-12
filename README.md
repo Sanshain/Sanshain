@@ -28,9 +28,7 @@ I am a **frontend** and **backend** developer
 - [Backend expierence](#backend-expierence)
 - [Mobile development expierence](#mobile-development-expierence)
 - [Common expierence](#common-expierence)
-- [Advanced skills](#advanced-skills)
-- [Packages published on pip](#packages-published-on-pip)
-- [Packages published on npm](#packages-published-on-npm)
+- [Published packages](#packages-published-on-pip)
 - *[How to reach me](#contacts)*
 
 <h2><center> Frontend expierence:</center> </h2>
